@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+body{
+    background-color: #f64d4d;
+}
+
 .meme-generator {
     /* border: 2px solid firebrick; */
     font-family: "Roboto", sans-serif;
@@ -11,7 +15,7 @@
 }
 
 .meme-generator img {
-    /* border: 2px solid red; */
+    border: 3px dotted white;
     height: 430px;
     margin-top: 30px;
     object-fit: cover;
